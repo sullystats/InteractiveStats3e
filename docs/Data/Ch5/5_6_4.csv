@@ -1,4 +1,4 @@
-Spin1,Spin2,Outcome_Spin1,Outcome_Spin2A,Outcome_Spin2B,Player1_Spin3,Player2_Spin3,Strategy1,Strategy2
+Spin1,Spin2,Outcome_Spin1,Outcome_Spin2A,Outcome_Spin2B,Player1_Playoff,Player2_Playoff,Strategy1,Strategy2
 65,25,Spin Again,win,win,85,95,win,win
 30,55,Spin Again,win,win,5,95,win,win
 90,65,win,win,win,65,5,win,win
